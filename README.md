@@ -1,4 +1,6 @@
-# Generalized Continual Category Discovery (GCCD)
+# Category Adaptation Meets Projected Distillation in Generalized Continual Category Discovery
+This repository contains code for ECCV 2024 paper: https://arxiv.org/abs/2308.12112.
+
 ### Setup:
 ```bash
 pip install requirements.txt
