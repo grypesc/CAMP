@@ -1,5 +1,6 @@
 # Category Adaptation Meets Projected Distillation in Generalized Continual Category Discovery
-This repository contains code for ECCV 2024 paper: https://arxiv.org/abs/2308.12112.
+This repository contains code for ECCV 2024 paper: https://arxiv.org/abs/2308.12112  
+Introduction video: https://www.youtube.com/watch?v=NfgT1qpOb4U
 
 ### Setup:
 ```bash
