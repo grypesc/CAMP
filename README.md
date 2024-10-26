@@ -57,10 +57,10 @@ bash scripts/proxy_anchors.sh
 
 If you find this code or paper useful we will appreciate if you cite us:
 ```commandline
-@article{rypesc2024category,
-  title={Category Adaptation Meets Projected Distillation in Generalized Continual Category Discovery},
-  author={Rype{\'s}{\'c}, Grzegorz, and Marczak, Daniel and Cygert, Sebastian and Trzci{\'n}ski, Tomasz and Twardowski, Bart{\l}omiej},
-  journal={arXiv preprint arXiv:2308.12112},
-  year={2024}
+@inproceedings{rypesc2024category,
+    title   = {Category Adaptation Meets Projected Distillation in Generalized Continual Category Discovery},
+    author={Rype{\'s}{\'c}, Grzegorz and Marczak, Daniel and Cygert, Sebastian  and Trzci{\'n}ski, Tomasz and Twardowski, Bart{\l}omiej},
+    booktitle = {European Conference on Computer Vision (ECCV)},
+    year    = {2024}
 }
 ```
